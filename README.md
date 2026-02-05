@@ -1,6 +1,6 @@
 # Hi, I'm William
 
-## I'm a Natural General Intelligence
+## I'm a Natural General Intelligence 😄
 
 Also an Entrepreneur, Engineer, Angel Investor, and 🍖📻 Ham Radio Operator (W3WYM).
 
