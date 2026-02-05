@@ -1,8 +1,8 @@
 # Hi, I'm William
 
-I'm a Natural General Intelligence.
+## I'm a Natural General Intelligence
 
-Entrepreneur. Engineer. Angel Investor. Ham Radio Operator (W3WYM).
+Also an Entrepreneur, Engineer, Angel Investor, and 🍖📻 Ham Radio Operator (W3WYM).
 
 I'm currently building [ThinkNimble](https://www.thinknimble.com), where we create software for organizations we admire.
 
