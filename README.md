@@ -8,21 +8,21 @@ I'm CTO at [ThinkNimble](https://www.thinknimble.com), where we create software 
 
 **ThinkNimble Open Source**
 
-- **[TN SPA Bootstrapper](https://github.com/thinknimble/tn-spa-bootstrapper)** - Production-ready Django + React starter template. Get a full-stack SPA deployed to Heroku in 20 minutes.
-- **[tn-models](https://github.com/thinknimble/tn-models-fp)** - TypeScript library for type-safe API model management with functional programming patterns.
-- **[tn-forms](https://github.com/thinknimble/tn-forms)** - Type-safe form management for TypeScript with validation
-- **[embeddings-search-demo](https://github.com/thinknimble/embeddings-search-demo)** - Semantic search using vector embeddings and pgvector
+- **[TN Bootstrapper](https://github.com/thinknimble/tn-spa-bootstrapper)** - Production-ready Django + React starter template. Get a full-stack SPA deployed to Heroku in 20 minutes.
+- **[TN Models](https://github.com/thinknimble/tn-models-fp)** - TypeScript library for type-safe API model management with functional programming patterns.
+- **[TN Forms](https://github.com/thinknimble/tn-forms)** - Type-safe form management for TypeScript with validation
+- **[Embeddings Search Demo](https://github.com/thinknimble/embeddings-search-demo)** - Semantic search using vector embeddings and pgvector
 - **[Agency of Agents](https://github.com/thinknimble/agency-of-agents)** - AI agents for automating software development workflows
 
 **Personal Projects**
 
-- **[W3WYM Washington DC](https://github.com/whusterj/W3WYM_Washington_DC)** - Free scenery pack for Microsoft Flight Simulator 2020
-- **[whisper-transcribe](https://github.com/whusterj/whisper-transcribe)** - Shell scripts for transcribing audio/video using OpenAI Whisper
-- **[kiwix-torrent-watcher](https://github.com/whusterj/kiwix-torrent-watcher)** - Auto-download updated Kiwix ZIM torrents for offline Wikipedia access
-- **[alert-alert](https://github.com/whusterj/alert-alert)** - Minimalist JavaScript growl-style notifications
-- **[gong-v2](https://github.com/whusterj/gong-v2)** - Raspberry Pi-controlled remote gong ringer
-- **[home-sensors](https://github.com/whusterj/home-sensors)** - Arduino/Raspberry Pi home sensor network
+- **[Washington DC Scenery](https://github.com/whusterj/W3WYM_Washington_DC)** - Free scenery pack for Microsoft Flight Simulator 2020
+- **[Whisper Transcribe](https://github.com/whusterj/whisper-transcribe)** - Shell scripts for transcribing audio/video using OpenAI Whisper
+- **[Kiwix Torrent Watcher](https://github.com/whusterj/kiwix-torrent-watcher)** - Auto-download updated Kiwix ZIM torrents for offline Wikipedia access
+- **[Alert Alert](https://github.com/whusterj/alert-alert)** - Minimalist JavaScript growl-style notifications
+- **[The Gong](https://github.com/whusterj/gong-v2)** - Raspberry Pi-controlled remote gong ringer
+- **[Home Sensors](https://github.com/whusterj/home-sensors)** - Arduino/Raspberry Pi home sensor network
 - **[The Office](https://github.com/whusterj/TNOfficeUnity)** - ThinkNimble virtual office as a WebGL Unity game
-- **[axis-and-allies](https://github.com/whusterj/axis-and-allies)** / **[war-room](https://github.com/whusterj/war-room)** - Battle outcome simulations for board games
-- **[amazing-marvin](https://github.com/whusterj/amazing-marvin)** - Personal scripts for the Amazing Marvin task manager
-- **[wtf](https://github.com/whusterj/wtf)** - CLI utility to record WTF moments
+- **[Axis & Allies](https://github.com/whusterj/axis-and-allies)** / **[War Room](https://github.com/whusterj/war-room)** - Battle outcome simulations for board games
+- **[Amazing Marvin Scripts](https://github.com/whusterj/amazing-marvin)** - Personal scripts for the Amazing Marvin task manager
+- **[WTF](https://github.com/whusterj/wtf)** - CLI utility to record WTF moments
