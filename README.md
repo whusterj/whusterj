@@ -4,7 +4,7 @@
 
 Also an Entrepreneur, Engineer, Angel Investor, and 🍖📻 Ham Radio Operator ([W3WYM](https://www.qrz.com/db/W3WYM)).
 
-I'm CTO at [ThinkNimble](https://www.thinknimble.com), where we create software for organizations we admire. I write on my [Blog](https://whusterj.github.io) and ponder about AI and technology at [research.thinknimble.com](https://research.thinknimble.com). Occasionally I post on [X/Twitter](https://x.com/whusterj), [Bluesky](https://bsky.app/profile/william-huster.bsky.social), and [Youtube](https://www.youtube.com/watch?v=ZCPUmC37HLU).
+CTO at [ThinkNimble](https://www.thinknimble.com), where we create software for organizations we admire. I write on my [Blog](https://whusterj.github.io) and ponder about AI and technology at [research.thinknimble.com](https://research.thinknimble.com). Occasionally I post on [X/Twitter](https://x.com/whusterj), [Bluesky](https://bsky.app/profile/william-huster.bsky.social), and [Youtube](https://www.youtube.com/watch?v=ZCPUmC37HLU).
 
 **ThinkNimble Open Source**
 
@@ -16,13 +16,13 @@ I'm CTO at [ThinkNimble](https://www.thinknimble.com), where we create software 
 
 **Personal Projects**
 
-- **[Washington DC Scenery](https://github.com/whusterj/W3WYM_Washington_DC)** - Free scenery pack for Microsoft Flight Simulator 2020
-- **[Whisper Transcribe](https://github.com/whusterj/whisper-transcribe)** - Shell scripts for transcribing audio/video using OpenAI Whisper
-- **[Kiwix Torrent Watcher](https://github.com/whusterj/kiwix-torrent-watcher)** - Auto-download updated Kiwix ZIM torrents for offline Wikipedia access
-- **[Alert Alert](https://github.com/whusterj/alert-alert)** - Minimalist JavaScript growl-style notifications
-- **[The Gong](https://github.com/whusterj/gong-v2)** - Raspberry Pi-controlled remote gong ringer
-- **[Home Sensors](https://github.com/whusterj/home-sensors)** - Arduino/Raspberry Pi home sensor network
-- **[The Office](https://github.com/whusterj/TNOfficeUnity)** - ThinkNimble virtual office as a WebGL Unity game
 - **[Axis & Allies](https://github.com/whusterj/axis-and-allies)** / **[War Room](https://github.com/whusterj/war-room)** - Battle outcome simulations for board games
 - **[Amazing Marvin Scripts](https://github.com/whusterj/amazing-marvin)** - Personal scripts for the Amazing Marvin task manager
-- **[WTF](https://github.com/whusterj/wtf)** - CLI utility to record WTF moments
+- **[Whisper Transcribe](https://github.com/whusterj/whisper-transcribe)** - Shell scripts for transcribing audio/video using OpenAI Whisper
+- **[Kiwix Torrent Watcher](https://github.com/whusterj/kiwix-torrent-watcher)** - Auto-download updated Kiwix ZIM torrents for offline Wikipedia access
+- **[The Gong](https://github.com/whusterj/gong-v2)** - Raspberry Pi-controlled remote gong ringer
+- **[The Office](https://github.com/whusterj/TNOfficeUnity)** - ThinkNimble virtual office as a WebGL Unity game
+- **[Washington DC Scenery](https://github.com/whusterj/W3WYM_Washington_DC)** - Free scenery pack for Microsoft Flight Simulator 2020
+- **[Alert! Alert!](https://github.com/whusterj/alert-alert)** - Minimalist JavaScript growl-style notifications
+- **[Home Sensors](https://github.com/whusterj/home-sensors)** - Arduino/Raspberry Pi home sensor network
+- **[WTF](https://github.com/whusterj/wtf)** - Silly CLI utility to record WTF moments
